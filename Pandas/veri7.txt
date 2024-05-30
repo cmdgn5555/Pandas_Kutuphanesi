@@ -1,0 +1,5 @@
+isim,soyisim,puan,memleket,yaş
+ali,can,98,adana,13
+murat,ay,67,malatya,12
+tuna,kolun,45,denizli,14
+deniz,doğan,56,bursa,15

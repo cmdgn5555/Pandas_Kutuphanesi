@@ -1,0 +1,4 @@
+isim,soyisim,puan
+satır1,ali,can,98
+satır2,murat,ay,67
+satır3,tuna,kolun,45

@@ -1,0 +1,5 @@
+Ahmet,80,Erkek
+Fatih,85,Erkek
+Selen,70,Kadın
+Ayşen,90,Kadın
+Murat,75,Erkek
